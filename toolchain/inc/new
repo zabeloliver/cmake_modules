@@ -1,0 +1,39 @@
+/*
+ * Copyright(C) 2007, 2013 Renesas Electronics Corporation
+ * RENESAS ELECTRONICS CONFIDENTIAL AND PROPRIETARY.
+ * This program must be used solely for the purpose for which
+ * it was furnished by Renesas Electronics Corporation. No part of this
+ * program may be reproduced or disclosed to others, in any
+ * form, without the prior written permission of Renesas Electronics
+ * Corporation.
+ */
+
+/********************************************************************************/
+/* RX Family C/C++ Compiler                                                     */
+/********************************************************************************/
+
+/***********************************************************************/
+/* SPEC;                                                               */
+/*  NAME = new :                                                       */
+/*                                                                     */
+/*  FUNC = Include file for C++ default operator new .                 */
+/*                                                                     */
+/*  CLAS = UNIT;                                                       */
+/*                                                                     */
+/* END;                                                                */
+/***********************************************************************/
+
+#ifndef __NEW__
+#define __NEW__
+
+#ifdef __embedded_cplusplus
+
+#include <new_ecpp.h>    // include Embeded C++ Library Header
+
+#else
+
+#include <new_edg.h>     // include ANSI C++ Library Header
+
+#endif /* ifdef __embedded_cplusplus */
+
+#endif /* ifndef __NEW__ */
