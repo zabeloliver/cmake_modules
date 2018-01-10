@@ -1,0 +1,501 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe" "cmTC_609cc/fast"
+C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe -f CMakeFiles\cmTC_609cc.dir\build.make CMakeFiles/cmTC_609cc.dir/build
+mingw32-make.exe[1]: Entering directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_609cc.dir/testCCompiler.c.obj
+C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\toolchain\bin\ccrx.exe  -IC:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\toolchain\inc   -o CMakeFiles\cmTC_609cc.dir\testCCompiler.c.obj   -c C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\testCCompiler.c
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-ic:\users\zabelo\documents\e.g.o\software\python\conan\cmake_test\module\src\build\cmakefiles\cmaketmp\toolchain\inc" option is not recognized.
+E0511108:The "-o" option is not recognized.
+E0511134:Input file "CMakeFiles\cmTC_609cc.dir\testCCompiler.c.obj" is not found.
+E0511108:The "-c" option is not recognized.
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_609cc.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [cmTC_609cc/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe" "cmTC_6358e/fast"
+C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe -f CMakeFiles\cmTC_6358e.dir\build.make CMakeFiles/cmTC_6358e.dir/build
+mingw32-make.exe[1]: Entering directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6358e.dir/testCCompiler.c.obj
+C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\toolchain\bin\ccrx.exe  -IC:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\toolchain\inc   -o CMakeFiles\cmTC_6358e.dir\testCCompiler.c.obj   -c C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\testCCompiler.c
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-ic:\users\zabelo\documents\e.g.o\software\python\conan\cmake_test\module\src\build\cmakefiles\cmaketmp\toolchain\inc" option is not recognized.
+E0511108:The "-o" option is not recognized.
+E0511134:Input file "CMakeFiles\cmTC_6358e.dir\testCCompiler.c.obj" is not found.
+E0511108:The "-c" option is not recognized.
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_6358e.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [cmTC_6358e/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+W0511180:The evaluation period has expired.
+E0511175:Neither isa nor cpu is specified.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-c" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-aa" option is not recognized.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/toolchain/bin/ccrx.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-d__classic_c__" option is not recognized.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe" "cmTC_c686b/fast"
+C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/make/mingw32-make.exe -f CMakeFiles\cmTC_c686b.dir\build.make CMakeFiles/cmTC_c686b.dir/build
+mingw32-make.exe[1]: Entering directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c686b.dir/testCCompiler.c.obj
+C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\toolchain\bin\ccrx.exe  -IC:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\toolchain\inc   -o CMakeFiles\cmTC_c686b.dir\testCCompiler.c.obj   -c C:\Users\zabelo\Documents\E.G.O\Software\Python\conan\cmake_test\module\src\build\CMakeFiles\CMakeTmp\testCCompiler.c
+RX Family C/C++ Compiler V2.05.00 [10 Jun 2016]
+RX Family Assembler V2.04.00.01 [14 Jul 2015]
+Renesas Optimizing Linker W2.05.00  [10 Mar 2016]
+Copyright (C) 2011, 2016 Renesas Electronics Corporation
+Copyright (C) 2003-2016 University of Illinois at Urbana-Champaign.
+All rights reserved.
+E0511108:The "-ic:\users\zabelo\documents\e.g.o\software\python\conan\cmake_test\module\src\build\cmakefiles\cmaketmp\toolchain\inc" option is not recognized.
+E0511108:The "-o" option is not recognized.
+E0511134:Input file "CMakeFiles\cmTC_c686b.dir\testCCompiler.c.obj" is not found.
+E0511108:The "-c" option is not recognized.
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_c686b.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory `C:/Users/zabelo/Documents/E.G.O/Software/Python/conan/cmake_test/module/src/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [cmTC_c686b/fast] Error 2
+
+

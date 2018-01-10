@@ -1,7 +1,7 @@
 message(STATUS "Hello")
 # this one is important
 #SET(TOOL_PATH $ENV{TOOLCHAIN})
-SET(CMAKE_SYSTEM_NAME GNU)
+SET(CMAKE_SYSTEM_NAME Generic)
 set(TOOL_PATH ${PROJECT_SOURCE_DIR}/toolchain)
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
 
@@ -13,9 +13,6 @@ SET(CMAKE_C_COMPILER "${TOOL_PATH}/bin/ccrx.exe")
 SET(CMAKE_CXX_COMPILER "${TOOL_PATH}/bin/ccrx.exe")
 SET(CMAKE_ASM_COMPILER "${TOOL_PATH}/bin/asrx.exe")
 set(CMAKE_LINKER "${TOOL_PATH}/bin/rlink.exe")
-
-# sepcify how compiler works
-set(CMAKE_C_LINK_EXECUTABLE "<CMAKE_LINKER> -form=abs -output=<TARGET>.abs <OBJECTS>")
 
 # where is the target environment 
 SET(CMAKE_FIND_ROOT_PATH "${TOOL_PATH}")
