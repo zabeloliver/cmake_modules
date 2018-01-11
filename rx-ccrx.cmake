@@ -1,7 +1,9 @@
 message(STATUS "Hello")
 # this one is important
 #SET(TOOL_PATH $ENV{TOOLCHAIN})
+try_compile(TRUE)
 SET(CMAKE_SYSTEM_NAME Generic)
+
 set(TOOL_PATH ${PROJECT_SOURCE_DIR}/toolchain)
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
 
@@ -16,7 +18,7 @@ set(CMAKE_LINKER "${TOOL_PATH}/bin/rlink.exe")
 
 # where is the target environment 
 SET(CMAKE_FIND_ROOT_PATH "${TOOL_PATH}")
-include_directories("${TOOL_PATH}/inc/")
+#include_directories("${TOOL_PATH}/inc/")
 
 # search for programs in the build host directories
 SET(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
