@@ -1,7 +1,7 @@
 message(STATUS "Hello")
 # this one is important
 #SET(TOOL_PATH $ENV{TOOLCHAIN})
-try_compile(TRUE)
+#try_compile(TRUE)
 SET(CMAKE_SYSTEM_NAME Generic)
 
 set(TOOL_PATH ${PROJECT_SOURCE_DIR}/toolchain)
